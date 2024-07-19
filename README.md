@@ -1,4 +1,4 @@
-# Azure Sentinel Lab (Failed
+# SOC and Honeynet Implementation in Azure
 
 ## Description
 This lab is about 
